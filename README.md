@@ -45,7 +45,8 @@ Volvemos a Visual Studio Code y pinchamos en el icono de la esquina inferior izq
 
 Una vez dentro del apartado de configuración debemos escribir el siguiente contenido:
 
-```Host iaw-practica01
+```
+Host iaw-practica01
     HostName ec2-54-208-223-218.compute-1.amazonaws.com
     User ubuntu
     IdentityFile "C:\Users\Jose Antonio\iaw-amazon.pem"
